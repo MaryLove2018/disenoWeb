@@ -1,0 +1,44 @@
+body{
+  width: 70%;
+  margin: 0;
+  font: 12pt/1.5em Helvetica, Arial;
+    }
+h1{
+  text-transform: uppercase; 
+  font: 20pt;
+  color: #e5b7ad;
+  padding-top: 20px;
+}
+body>header{
+  text-align: center;
+  padding: opx;
+  overflow: auto;
+}
+body>header>h1{
+  text-align: center;
+  font: 30pt Helvetica, Arial;
+  width: 85%;
+  float: left;
+}
+body>section{
+  width: 60%;
+  border-left-width: 2px dotted #b2a497;
+  margin: 3px auto 10px 0;
+  padding-left: 25px;
+}
+nav{
+  text-align: center;
+}
+nav a{
+  padding-top: 30px;
+}
+aside{
+  width: 20%;
+  margin: 0 0 20px 0;
+  min-height: 480px;
+  }
+footer{
+  padding: 10px;
+  color: #200f08;
+  clear: both;
+  }

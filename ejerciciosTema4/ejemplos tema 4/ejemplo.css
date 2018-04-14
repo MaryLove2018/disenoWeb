@@ -1,0 +1,25 @@
+p {
+  color: red;
+}
+
+nav a{
+  color: green;
+  padding: 20px;
+  border: dotted 1px blue;
+}
+
+p+p{
+  background-color: yellow;
+  
+  
+  nav a{
+    font-size: 10px;
+  }
+}
+@media screen and (max-width:500px){
+  img{
+    display: none;
+}
+
+}
+
